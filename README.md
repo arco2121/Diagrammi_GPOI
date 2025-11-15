@@ -8,4 +8,4 @@ Esercizi di GPOI sui diagrammi WBS per gestire progetti
 
 ### Esercizio 3 : <a href='Esercizio3/'>Studio fotografico</a>
 
-### Esercizio 4 : <a href='Esercizio4/'>Paperino</a>
+### Esercizio 4 : <a href='Esercizio4/'>Azienda Paperino</a>
