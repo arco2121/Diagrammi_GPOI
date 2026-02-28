@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
   <diagram name="Page-1" id="2NSQez2e8aUP6hRVAn7z">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OjVxkgVfod9qozj3FkOQ-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="160" width="160" x="340" y="260" as="geometry" />
+          <mxGeometry height="160" width="160" x="360" y="30" as="geometry" />
         </mxCell>
         <mxCell id="OjVxkgVfod9qozj3FkOQ-2" parent="OjVxkgVfod9qozj3FkOQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
           <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
@@ -20,6 +20,168 @@
           <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
         </mxCell>
         <mxCell id="OjVxkgVfod9qozj3FkOQ-6" parent="OjVxkgVfod9qozj3FkOQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attività - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="65" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-2" parent="xjSUXvQHMF2c2cWF6rzY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-3" parent="xjSUXvQHMF2c2cWF6rzY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-4" parent="xjSUXvQHMF2c2cWF6rzY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-5" parent="xjSUXvQHMF2c2cWF6rzY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-6" parent="xjSUXvQHMF2c2cWF6rzY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="A" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="360" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-8" parent="xjSUXvQHMF2c2cWF6rzY-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-9" parent="xjSUXvQHMF2c2cWF6rzY-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-10" parent="xjSUXvQHMF2c2cWF6rzY-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-11" parent="xjSUXvQHMF2c2cWF6rzY-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-12" parent="xjSUXvQHMF2c2cWF6rzY-7" style="rounded=0;whiteSpace=wrap;html=1;" value="B" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="625" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-14" parent="xjSUXvQHMF2c2cWF6rzY-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-15" parent="xjSUXvQHMF2c2cWF6rzY-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-16" parent="xjSUXvQHMF2c2cWF6rzY-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-17" parent="xjSUXvQHMF2c2cWF6rzY-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-18" parent="xjSUXvQHMF2c2cWF6rzY-13" style="rounded=0;whiteSpace=wrap;html=1;" value="C" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="65" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-20" parent="xjSUXvQHMF2c2cWF6rzY-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-21" parent="xjSUXvQHMF2c2cWF6rzY-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-22" parent="xjSUXvQHMF2c2cWF6rzY-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-23" parent="xjSUXvQHMF2c2cWF6rzY-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-24" parent="xjSUXvQHMF2c2cWF6rzY-19" style="rounded=0;whiteSpace=wrap;html=1;" value="E" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="360" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-26" parent="xjSUXvQHMF2c2cWF6rzY-25" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-27" parent="xjSUXvQHMF2c2cWF6rzY-25" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-28" parent="xjSUXvQHMF2c2cWF6rzY-25" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-29" parent="xjSUXvQHMF2c2cWF6rzY-25" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-30" parent="xjSUXvQHMF2c2cWF6rzY-25" style="rounded=0;whiteSpace=wrap;html=1;" value="F" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="625" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-32" parent="xjSUXvQHMF2c2cWF6rzY-31" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-33" parent="xjSUXvQHMF2c2cWF6rzY-31" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-34" parent="xjSUXvQHMF2c2cWF6rzY-31" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-35" parent="xjSUXvQHMF2c2cWF6rzY-31" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-36" parent="xjSUXvQHMF2c2cWF6rzY-31" style="rounded=0;whiteSpace=wrap;html=1;" value="G" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-46" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="65" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-47" parent="xjSUXvQHMF2c2cWF6rzY-46" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-48" parent="xjSUXvQHMF2c2cWF6rzY-46" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-49" parent="xjSUXvQHMF2c2cWF6rzY-46" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-50" parent="xjSUXvQHMF2c2cWF6rzY-46" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-51" parent="xjSUXvQHMF2c2cWF6rzY-46" style="rounded=0;whiteSpace=wrap;html=1;" value="H" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-52" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="360" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-53" parent="xjSUXvQHMF2c2cWF6rzY-52" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-54" parent="xjSUXvQHMF2c2cWF6rzY-52" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-55" parent="xjSUXvQHMF2c2cWF6rzY-52" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-56" parent="xjSUXvQHMF2c2cWF6rzY-52" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-57" parent="xjSUXvQHMF2c2cWF6rzY-52" style="rounded=0;whiteSpace=wrap;html=1;" value="I" vertex="1">
+          <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-58" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="625" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-59" parent="xjSUXvQHMF2c2cWF6rzY-58" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita - Dr" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-60" parent="xjSUXvQHMF2c2cWF6rzY-58" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr uscita (successiva minima)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-61" parent="xjSUXvQHMF2c2cWF6rzY-58" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr ingresso (precedente massima&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-62" parent="xjSUXvQHMF2c2cWF6rzY-58" style="rounded=0;whiteSpace=wrap;html=1;" value="Dr + Dr ingresso (precedente)" vertex="1">
+          <mxGeometry height="53.33333333333333" width="80" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjSUXvQHMF2c2cWF6rzY-63" parent="xjSUXvQHMF2c2cWF6rzY-58" style="rounded=0;whiteSpace=wrap;html=1;" value="G" vertex="1">
           <mxGeometry height="53.33333333333333" width="160" y="53.33333333333333" as="geometry" />
         </mxCell>
       </root>
