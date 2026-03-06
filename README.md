@@ -9,3 +9,5 @@ Esercizi di GPOI sui diagrammi WBS per gestire progetti
 ### Esercizio 3 : <a href='Esercizio3/'>Studio fotografico</a>
 
 ### Esercizio 4 : <a href='Esercizio4/'>Azienda Paperino</a>
+
+### Template Excel => <a href="https://docs.google.com/spreadsheets/d/1VRhFnPAw1AXWtvoIYt2KHDnwRlys2stxN_btLLU2cGI/edit?usp=sharing">Template</a>
